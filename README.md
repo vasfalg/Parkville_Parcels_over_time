@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 
 ## Live links
-- Leaflet Map https://vasfalg.github.io/Parkville_leaflet_sample/
+- Leaflet Map https://vasfalg.github.io/Parkville_Parcels_over_time/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1PypOIUblb_GUJl4NkL0ae2wxDQA82CjVE2V46_WcXvM/edit?usp=sharing
 
 ## Create your own
